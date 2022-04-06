@@ -1,1 +1,1 @@
-this repo is for testing my shell knowledge
+A script that prints hello world
