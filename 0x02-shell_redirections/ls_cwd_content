@@ -1,18 +1,19 @@
-.
-..
-0-hello_world
-.0-hello_world.swp
-1-confused_smiley
-.1-confused_smiley.swp
-2-hellofile
-3-twofiles
-4-lastlines
-5-firstlines
-6-third_line
-7-file
-8-cwd_state
-\*\\'"Best
-*\\"Best School\"\\*$?*****:)
-iacta
-ls_cwd_content
-README.md
+total 80
+drwxr-xr-x 2 root root  4096 Apr  7 09:22 .
+drwxr-xr-x 5 root root   112 Apr  6 13:33 ..
+-rwxr--r-- 1 root root    32 Apr  6 14:13 0-hello_world
+-rw------- 1 root root 12288 Apr  6 13:51 .0-hello_world.swp
+-rwxr--r-- 1 root root    28 Apr  6 14:41 1-confused_smiley
+-rw-r--r-- 1 root root 12288 Apr  6 14:25 .1-confused_smiley.swp
+-rwxr--r-- 1 root root    28 Apr  6 14:44 2-hellofile
+-rwxr--r-- 1 root root    39 Apr  6 14:52 3-twofiles
+-rwxr--r-- 1 root root    33 Apr  6 14:57 4-lastlines
+-rwxr--r-- 1 root root    33 Apr  6 15:03 5-firstlines
+-rwxr--r-- 1 root root    36 Apr  6 15:28 6-third_line
+-rwxr--r-- 1 root root    99 Apr  7 08:57 7-file
+-rwxr--r-- 1 root root    36 Apr  7 09:22 8-cwd_state
+-rw-r--r-- 1 root root    40 Apr  7 07:59 \*\\'"Best
+-rw-r--r-- 1 root root    12 Apr  6 15:52 *\\"Best School\"\\*$?*****:)
+-rw-r--r-- 1 root root   728 Apr  6 15:24 iacta
+-rw-r--r-- 1 root root     0 Apr  7 09:23 ls_cwd_content
+-rw-r--r-- 1 root root    32 Apr  6 13:50 README.md
